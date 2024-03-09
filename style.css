@@ -29,3 +29,6 @@ button{
     font-size: larger;
     font-weight: bold;
 }
+#userScore, #PCScore{
+    text-align: center;
+}
