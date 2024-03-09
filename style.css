@@ -1,0 +1,25 @@
+.header{
+    text-align: center;
+    background-color: gray;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.content{
+    font-size: large;
+}
+.buttons{
+    display: flex;
+    justify-content: space-around;
+}
+button{
+    font-size: large;
+    padding: 10px;
+}
+.Score{
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-between;
+    align-items: center;
+}
